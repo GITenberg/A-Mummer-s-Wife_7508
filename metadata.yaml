@@ -1,0 +1,35 @@
+_repo: A-Mummer-s-Wife_7508
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Moore, George Augustus
+    - Rhone, Lady
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: This 1884 novel examines the life of a woman seduced away from her invalid
+  husband by a member of an operetta troupe. Moore's unwavering account of the protagonist's
+  descent into alcoholism causing her to do unthinkable things was too brutal, however,
+  for readers of the time. One critic wrote, A more repulsive story was probably never
+  written." It stands today as one of the first major English-language novels in the
+  realist tradition.
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Actors -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Staffordshire (England) -- Fiction'
+title: A Mummer's Wife
+url: http://www.gutenberg.org/ebooks/7508
